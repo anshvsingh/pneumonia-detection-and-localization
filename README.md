@@ -90,6 +90,7 @@ The project was developed in **Google Colab** with a GPU (T4).
 2. Install dependencies: `pip install -r requirements.txt` (Colab already includes most of them; `pydicom` is the one usually missing).
 3. Download the RSNA dataset (see `data/README.md`) and make sure the notebook's `path` variable points to the folder containing `stage_2_train_labels.csv` and `stage_2_train_images/`.
 4. Run the cells top to bottom to reproduce data splits, training, evaluation and Grad-CAM/IoU.
+https://drive.google.com/file/d/1UnUuNe-Ub9d_9Fe_VtASuqLZ5TFjidQh/view?usp=sharing
 
 ### Run the demo without retraining
 
